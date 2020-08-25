@@ -35,7 +35,7 @@ unset($var_name);
 ## Name
 
 1. Must started with `$`
-2. Must use **letter**, **number** and **underscore "_"**. But the number can't be at the first,
+2. Must use **letter**, **number** and **underscore "_"**. But the number can't be at the first.
 3. You can use chinese character but **it is not recommend**.
 
 ```php
